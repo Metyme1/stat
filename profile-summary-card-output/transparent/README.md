@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Metyme1/stat/master/profile-summary-card-output/transparent/4-productive-time.svg)
-```
-
-    
